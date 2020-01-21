@@ -1,0 +1,12 @@
+insert into student (roll_number,student_name,student_score)
+values(01,'Pooja',78.3);
+
+insert into student (roll_number,student_name,student_score)
+values(02,'Harry',68.3);
+insert into student (roll_number,student_name,student_score)
+values(03,'Ron',61.3);
+insert into student (roll_number,student_name,student_score)
+values(04,'Hermoine',99.9);
+insert into student (roll_number,student_name,student_score)
+values(05,'Neville',78.4);
+
